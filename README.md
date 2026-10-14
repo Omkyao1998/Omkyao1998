@@ -3,7 +3,7 @@
 Data Engineer and BI Analyst with 3+ years across EdTech, hospitality, financial services and retail. I build data pipelines, turn messy data into dashboards that people actually use, and teach data engineering to 100+ students.
 
 - **Now:** Data Engineer & Subject-Matter Expert at Newton School of Technology
-- **Before:** Data Analyst at Crowne Plaza Dublin Airport and Atos Syntel
+- **Before:** BI/Data Analyst at Crowne Plaza Dublin Airport and Atos Syntel
 - **Education:** MSc Data Analytics, Dublin City University
 - **Certified:** Microsoft Power BI Data Analyst (PL-300) · AgilePM Practitioner
 - **Learning:** Databricks, Snowflake, dbt and cloud data platforms
